@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/familio.org.ico",
     "slug": "familio",
     "status": "up",
-    "uptime": "75.52%",
-    "uptimeDay": "75.52%",
-    "uptimeWeek": "75.52%",
-    "uptimeMonth": "75.52%",
-    "uptimeYear": "75.52%",
-    "time": 768,
-    "timeDay": 768,
-    "timeWeek": 768,
-    "timeMonth": 768,
-    "timeYear": 768,
-    "dailyMinutesDown": {
-      "2025-03-28": 28
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 790,
+    "timeDay": 790,
+    "timeWeek": 790,
+    "timeMonth": 790,
+    "timeYear": 790,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Familio Maps",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1108,
-    "timeDay": 1108,
-    "timeWeek": 1108,
-    "timeMonth": 1108,
-    "timeYear": 1108,
+    "time": 1131,
+    "timeDay": 1131,
+    "timeWeek": 1131,
+    "timeMonth": 1131,
+    "timeYear": 1131,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 826,
-    "timeDay": 826,
-    "timeWeek": 826,
-    "timeMonth": 826,
-    "timeYear": 826,
+    "time": 883,
+    "timeDay": 883,
+    "timeWeek": 883,
+    "timeMonth": 883,
+    "timeYear": 883,
     "dailyMinutesDown": {}
   }
 ]
