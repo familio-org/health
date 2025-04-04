@@ -4,18 +4,20 @@
     "url": "https://familio.org/surnames",
     "icon": "https://icons.duckduckgo.com/ip3/familio.org.ico",
     "slug": "familio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 861,
     "timeDay": 1533,
-    "timeWeek": 861,
+    "timeWeek": 826,
     "timeMonth": 861,
     "timeYear": 861,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-04": 0
+    }
   },
   {
     "name": "Familio Maps",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 1318,
     "timeDay": 889,
-    "timeWeek": 1318,
+    "timeWeek": 1399,
     "timeMonth": 1318,
     "timeYear": 1318,
     "dailyMinutesDown": {}
