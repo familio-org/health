@@ -2,11 +2,6 @@ owner: familio-org
 repo: health
 
 sites:
-  - name: Familio
-    url: https://familio.org/surnames
-    expectedStatusCodes:
-      - 200
-      - 403
   - name: Familio Maps
     url: https://maps.familio.org/health
   - name: Familio GEDCOM
