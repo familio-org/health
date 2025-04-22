@@ -4,19 +4,19 @@
     "url": "https://maps.familio.org/health",
     "icon": "https://icons.duckduckgo.com/ip3/maps.familio.org.ico",
     "slug": "familio-maps",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1192,
-    "timeDay": 897,
-    "timeWeek": 1529,
-    "timeMonth": 1192,
-    "timeYear": 1192,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1308,
+    "timeDay": 3136,
+    "timeWeek": 2009,
+    "timeMonth": 1308,
+    "timeYear": 1308,
     "dailyMinutesDown": {
-      "2025-04-22": 1
+      "2025-04-22": 33
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://gedcom.familio.org",
     "icon": "https://icons.duckduckgo.com/ip3/gedcom.familio.org.ico",
     "slug": "familio-gedcom",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1075,
-    "timeDay": 1296,
-    "timeWeek": 1215,
-    "timeMonth": 1075,
-    "timeYear": 1075,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1461,
+    "timeDay": 6970,
+    "timeWeek": 2644,
+    "timeMonth": 1461,
+    "timeYear": 1461,
     "dailyMinutesDown": {
-      "2025-04-22": 0
+      "2025-04-22": 32
     }
   }
 ]
