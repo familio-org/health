@@ -4,10 +4,10 @@
     "url": "https://maps.familio.org/health",
     "icon": "https://icons.duckduckgo.com/ip3/maps.familio.org.ico",
     "slug": "familio-maps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1192,
@@ -15,16 +15,18 @@
     "timeWeek": 1529,
     "timeMonth": 1192,
     "timeYear": 1192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-22": 1
+    }
   },
   {
     "name": "Familio GEDCOM",
     "url": "https://gedcom.familio.org",
     "icon": "https://icons.duckduckgo.com/ip3/gedcom.familio.org.ico",
     "slug": "familio-gedcom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 1215,
     "timeMonth": 1075,
     "timeYear": 1075,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-22": 0
+    }
   }
 ]
