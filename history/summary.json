@@ -6,15 +6,15 @@
     "slug": "familio-maps",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "97.73%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 1297,
-    "timeDay": 3139,
-    "timeWeek": 2014,
-    "timeMonth": 1297,
-    "timeYear": 1297,
+    "time": 1285,
+    "timeDay": 827,
+    "timeWeek": 1994,
+    "timeMonth": 1285,
+    "timeYear": 1285,
     "dailyMinutesDown": {
       "2025-04-22": 33
     }
@@ -26,15 +26,15 @@
     "slug": "familio-gedcom",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "97.75%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 1449,
-    "timeDay": 6865,
-    "timeWeek": 2643,
-    "timeMonth": 1449,
-    "timeYear": 1449,
+    "time": 1434,
+    "timeDay": 964,
+    "timeWeek": 2594,
+    "timeMonth": 1434,
+    "timeYear": 1434,
     "dailyMinutesDown": {
       "2025-04-22": 32
     }
