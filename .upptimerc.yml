@@ -6,6 +6,9 @@ sites:
     url: https://maps.familio.org/health
   - name: Familio GEDCOM
     url: https://gedcom.familio.org
+  #- name: Familio GEDCOM
+  #  url: https://familio.org/api/v1/healthcheck
+  #  url: https://familio.org/surnames
 
 status-website:
   baseUrl: /health
