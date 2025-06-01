@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1067,
-    "timeDay": 832,
-    "timeWeek": 840,
-    "timeMonth": 847,
-    "timeYear": 1067,
+    "time": 1063,
+    "timeDay": 768,
+    "timeWeek": 809,
+    "timeMonth": 844,
+    "timeYear": 1063,
     "dailyMinutesDown": {
       "2025-04-22": 33
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gedcom.familio.org.ico",
     "slug": "familio-gedcom",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 1268,
-    "timeDay": 1067,
-    "timeWeek": 1173,
-    "timeMonth": 1123,
-    "timeYear": 1268,
+    "uptimeYear": "99.97%",
+    "time": 1266,
+    "timeDay": 1089,
+    "timeWeek": 1134,
+    "timeMonth": 1128,
+    "timeYear": 1266,
     "dailyMinutesDown": {
       "2025-04-22": 32
     }
