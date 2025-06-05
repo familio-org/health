@@ -4,11 +4,26 @@ repo: health
 sites:
   - name: Familio Maps
     url: https://maps.familio.org/health
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: Familio GEDCOM
     url: https://gedcom.familio.org
-  #- name: Familio GEDCOM
-  #  url: https://familio.org/api/v1/healthcheck
-  #  url: https://familio.org/surnames
+    expectedStatusCodes:
+      - 200
+      - 0
+  - name: Familio API
+    url: https://familio.org/api/v1/healthcheck
+    expectedStatusCodes:
+      - 200
+      - 0
+      - 403
+  - name: Familio
+    url: https://familio.org/surnames
+    expectedStatusCodes:
+      - 200
+      - 0
+      - 403
 
 status-website:
   baseUrl: /health
