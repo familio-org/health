@@ -1,7 +1,7 @@
 url: https://maps.familio.org/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-05T11:00:42.829Z
+status: up
+code: 200
+responseTime: 825
+lastUpdated: 2025-06-05T11:24:15.897Z
 startTime: 2025-03-28T12:11:44.625Z
 generator: Upptime <https://github.com/upptime/upptime>
