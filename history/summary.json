@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 971,
-    "timeDay": 894,
-    "timeWeek": 892,
-    "timeMonth": 820,
-    "timeYear": 971,
+    "time": 970,
+    "timeDay": 843,
+    "timeWeek": 912,
+    "timeMonth": 825,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2025-06-05": 24,
       "2025-04-22": 33
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1197,
-    "timeDay": 1362,
-    "timeWeek": 1205,
+    "time": 1196,
+    "timeDay": 1101,
+    "timeWeek": 1241,
     "timeMonth": 1119,
-    "timeYear": 1197,
+    "timeYear": 1196,
     "dailyMinutesDown": {
       "2025-04-22": 32
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 835,
-    "timeDay": 869,
-    "timeWeek": 882,
-    "timeMonth": 848,
-    "timeYear": 835,
+    "time": 831,
+    "timeDay": 669,
+    "timeWeek": 878,
+    "timeMonth": 843,
+    "timeYear": 831,
     "dailyMinutesDown": {}
   },
   {
@@ -64,16 +64,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/familio.org.ico",
     "slug": "familio",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
-    "time": 768,
-    "timeDay": 785,
-    "timeWeek": 762,
-    "timeMonth": 648,
-    "timeYear": 768,
+    "uptimeYear": "99.95%",
+    "time": 765,
+    "timeDay": 550,
+    "timeWeek": 768,
+    "timeMonth": 645,
+    "timeYear": 765,
     "dailyMinutesDown": {
       "2025-04-04": 31
     }
