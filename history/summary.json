@@ -10,15 +10,33 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 897,
-    "timeDay": 837,
-    "timeWeek": 795,
-    "timeMonth": 765,
-    "timeYear": 897,
+    "time": 896,
+    "timeDay": 694,
+    "timeWeek": 765,
+    "timeMonth": 758,
+    "timeYear": 896,
     "dailyMinutesDown": {
       "2025-06-05": 24,
       "2025-04-22": 33
     }
+  },
+  {
+    "name": "Familio Индекс",
+    "url": "https://index.familio.org/health",
+    "icon": "https://icons.duckduckgo.com/ip3/index.familio.org.ico",
+    "slug": "familio-indeks",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 606,
+    "timeDay": 606,
+    "timeWeek": 606,
+    "timeMonth": 606,
+    "timeYear": 606,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Familio GEDCOM",
@@ -31,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1173,
-    "timeDay": 920,
-    "timeWeek": 1071,
-    "timeMonth": 1029,
-    "timeYear": 1173,
+    "time": 1172,
+    "timeDay": 897,
+    "timeWeek": 1047,
+    "timeMonth": 1024,
+    "timeYear": 1172,
     "dailyMinutesDown": {
       "2025-04-22": 32
     }
@@ -51,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 772,
-    "timeDay": 634,
-    "timeWeek": 719,
-    "timeMonth": 698,
-    "timeYear": 772,
+    "time": 771,
+    "timeDay": 600,
+    "timeWeek": 700,
+    "timeMonth": 694,
+    "timeYear": 771,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 703,
-    "timeDay": 648,
-    "timeWeek": 749,
-    "timeMonth": 685,
-    "timeYear": 703,
+    "time": 702,
+    "timeDay": 631,
+    "timeWeek": 732,
+    "timeMonth": 683,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2025-04-04": 31
     }
