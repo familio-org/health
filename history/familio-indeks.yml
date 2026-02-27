@@ -1,7 +1,7 @@
 url: https://index.familio.org/health
-status: up
-code: 200
-responseTime: 979
-lastUpdated: 2026-02-26T23:25:44.177Z
+status: down
+code: 502
+responseTime: 546
+lastUpdated: 2026-02-27T05:37:50.221Z
 startTime: 2026-02-25T09:24:55.893Z
 generator: Upptime <https://github.com/upptime/upptime>
