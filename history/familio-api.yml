@@ -1,7 +1,7 @@
 url: https://familio.org/api/v1/healthcheck
 status: up
 code: 200
-responseTime: 747
-lastUpdated: 2026-03-27T23:28:19.219Z
+responseTime: 735
+lastUpdated: 2026-03-28T23:27:00.357Z
 startTime: 2025-06-05T12:03:47.883Z
 generator: Upptime <https://github.com/upptime/upptime>
