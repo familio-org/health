@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 878,
-    "timeDay": 677,
-    "timeWeek": 713,
-    "timeMonth": 697,
+    "timeDay": 784,
+    "timeWeek": 749,
+    "timeMonth": 698,
     "timeYear": 859,
     "dailyMinutesDown": {
       "2025-06-05": 24,
@@ -26,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/index.familio.org.ico",
     "slug": "familio-indeks",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.80%",
     "time": 703,
-    "timeDay": 548,
-    "timeWeek": 672,
-    "timeMonth": 700,
+    "timeDay": 684,
+    "timeWeek": 668,
+    "timeMonth": 697,
     "timeYear": 703,
     "dailyMinutesDown": {
       "2026-02-27": 54,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1165,
-    "timeDay": 937,
-    "timeWeek": 1025,
-    "timeMonth": 1128,
-    "timeYear": 1172,
+    "time": 1164,
+    "timeDay": 1018,
+    "timeWeek": 1036,
+    "timeMonth": 1126,
+    "timeYear": 1171,
     "dailyMinutesDown": {
       "2025-04-22": 32
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 758,
-    "timeDay": 632,
-    "timeWeek": 671,
-    "timeMonth": 661,
+    "timeDay": 630,
+    "timeWeek": 655,
+    "timeMonth": 660,
     "timeYear": 758,
     "dailyMinutesDown": {}
   },
@@ -91,12 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 700,
-    "timeDay": 547,
-    "timeWeek": 658,
-    "timeMonth": 684,
-    "timeYear": 693,
-    "dailyMinutesDown": {
-      "2025-04-04": 31
-    }
+    "timeDay": 642,
+    "timeWeek": 660,
+    "timeMonth": 680,
+    "timeYear": 690,
+    "dailyMinutesDown": {}
   }
 ]
