@@ -11,13 +11,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 871,
-    "timeDay": 866,
-    "timeWeek": 736,
-    "timeMonth": 704,
-    "timeYear": 841,
+    "timeDay": 692,
+    "timeWeek": 740,
+    "timeMonth": 708,
+    "timeYear": 840,
     "dailyMinutesDown": {
-      "2025-06-05": 24,
-      "2025-04-22": 33
+      "2025-06-05": 24
     }
   },
   {
@@ -32,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 703,
-    "timeDay": 705,
-    "timeWeek": 717,
-    "timeMonth": 697,
+    "timeDay": 698,
+    "timeWeek": 712,
+    "timeMonth": 699,
     "timeYear": 703,
     "dailyMinutesDown": {
       "2026-02-27": 54,
@@ -53,13 +52,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1156,
-    "timeDay": 813,
-    "timeWeek": 949,
-    "timeMonth": 990,
-    "timeYear": 1163,
-    "dailyMinutesDown": {
-      "2025-04-22": 32
-    }
+    "timeDay": 953,
+    "timeWeek": 946,
+    "timeMonth": 994,
+    "timeYear": 1162,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Familio API",
@@ -72,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 752,
-    "timeDay": 629,
-    "timeWeek": 576,
-    "timeMonth": 660,
-    "timeYear": 752,
+    "time": 751,
+    "timeDay": 483,
+    "timeWeek": 555,
+    "timeMonth": 657,
+    "timeYear": 751,
     "dailyMinutesDown": {}
   },
   {
@@ -90,10 +87,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 700,
-    "timeDay": 567,
-    "timeWeek": 728,
-    "timeMonth": 677,
+    "time": 699,
+    "timeDay": 574,
+    "timeWeek": 706,
+    "timeMonth": 673,
     "timeYear": 677,
     "dailyMinutesDown": {}
   }
