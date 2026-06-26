@@ -79,19 +79,19 @@
     "url": "https://familio.org/surnames",
     "icon": "https://icons.duckduckgo.com/ip3/familio.org.ico",
     "slug": "familio",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 748,
-    "timeDay": 925,
-    "timeWeek": 1110,
-    "timeMonth": 1105,
-    "timeYear": 742,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "87.07%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.96%",
+    "time": 749,
+    "timeDay": 969,
+    "timeWeek": 1104,
+    "timeMonth": 1104,
+    "timeYear": 743,
     "dailyMinutesDown": {
-      "2026-06-26": 0
+      "2026-06-26": 186
     }
   }
 ]
