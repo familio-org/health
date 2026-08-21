@@ -1,7 +1,7 @@
 url: https://gedcom.familio.org
-status: down
-code: 503
-responseTime: 1348
-lastUpdated: 2026-08-21T10:40:28.202Z
+status: up
+code: 200
+responseTime: 974
+lastUpdated: 2026-08-21T13:02:59.167Z
 startTime: 2025-03-28T13:42:59.945Z
 generator: Upptime <https://github.com/upptime/upptime>
