@@ -43,18 +43,20 @@
     "url": "https://gedcom.familio.org",
     "icon": "https://icons.duckduckgo.com/ip3/gedcom.familio.org.ico",
     "slug": "familio-gedcom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1117,
-    "timeDay": 1158,
-    "timeWeek": 1005,
-    "timeMonth": 993,
-    "timeYear": 1089,
-    "dailyMinutesDown": {}
+    "time": 1118,
+    "timeDay": 1253,
+    "timeWeek": 1048,
+    "timeMonth": 1005,
+    "timeYear": 1090,
+    "dailyMinutesDown": {
+      "2026-08-21": 0
+    }
   },
   {
     "name": "Familio API",
